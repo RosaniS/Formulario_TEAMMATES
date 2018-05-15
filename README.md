@@ -1,5 +1,5 @@
 Matéria: MATA 27 - Tópicos Especiais em Engenharia de Software III
 
-Explore-teammates
+Explore-Teammates
 
 Material e resultados para o trabalho prático da disciplina SEEwithOSS.
